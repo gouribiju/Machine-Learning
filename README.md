@@ -11,5 +11,4 @@ This folder contains Machine Learning projects that focus on predictive modeling
 4️⃣ Medical Insurance Cost Prediction – Estimating insurance charges using regression models.
 
 5️⃣ Quality Prediction in Ore Mining (Iron) – Predicting ore quality using ML techniques.
-
 6️⃣ Fraud Detection Using Machine Learning – Classifying financial transactions as genuine or fraudulent using CatBoost Classifier.

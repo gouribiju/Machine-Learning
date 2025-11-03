@@ -3,8 +3,7 @@ This folder contains Machine Learning projects that focus on predictive modeling
 
 # 📌 Projects Included:
 1️⃣ *Fantasy Cricket Predictions – Predicting fantasy cricket player performance.*
-
-2️⃣ Student Performance Analysis – Analyzing student grades and academic performance.
+2️⃣ *Student Performance Analysis – Analyzing student grades and academic performance.*
 
 3️⃣ Calories Burnt Predictions – Estimating calorie expenditure based on activity data.
 

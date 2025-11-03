@@ -2,7 +2,7 @@
 This folder contains Machine Learning projects that focus on predictive modeling, classification, and regression tasks. Each project uses different ML algorithms and covers various real-world applications.
 
 # 📌 Projects Included:
-1️⃣ Fantasy Cricket Predictions – Predicting fantasy cricket player performance.
+1️⃣ *Fantasy Cricket Predictions – Predicting fantasy cricket player performance.*
 
 2️⃣ Student Performance Analysis – Analyzing student grades and academic performance.
 

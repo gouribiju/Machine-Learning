@@ -23,7 +23,9 @@ This folder contains Machine Learning projects that focus on predictive modeling
 
 # 📂 How to Use?
 1️⃣ Navigate to each project folder.
+
 2️⃣ Open the notebook.ipynb file in Jupyter Notebook.
+
 3️⃣ Follow the code and run the ML models to generate predictions.
 
 🔗 Each project folder contains a README.md file with details and dataset links.

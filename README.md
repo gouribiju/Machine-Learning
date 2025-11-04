@@ -2,8 +2,9 @@
 This folder contains Machine Learning projects that focus on predictive modeling, classification, and regression tasks. Each project uses different ML algorithms and covers various real-world applications.
 
 # 📌 Projects Included:
-1️⃣ *Fantasy Cricket Predictions – Predicting fantasy cricket player performance.*
-2️⃣ *Student Performance Analysis – Analyzing student grades and academic performance.*
+1️⃣ Fantasy Cricket Predictions – Predicting fantasy cricket player performance.
+
+2️⃣ Student Performance Analysis – Analyzing student grades and academic performance.
 
 3️⃣ Calories Burnt Predictions – Estimating calorie expenditure based on activity data.
 
@@ -14,11 +15,11 @@ This folder contains Machine Learning projects that focus on predictive modeling
 6️⃣ Fraud Detection Using Machine Learning – Classifying financial transactions as genuine or fraudulent using CatBoost Classifier.
 
 # 🛠 Technologies Used:
-Python
-Pandas, NumPy, Scikit-learn – Data preprocessing & ML modeling
-CatBoost – Fraud detection model
-Matplotlib & Seaborn – Data visualization
-Jupyter Notebook
+* Python
+* Pandas, NumPy, Scikit-learn – Data preprocessing & ML modeling
+* CatBoost – Fraud detection model
+* Matplotlib & Seaborn – Data visualization
+* Jupyter Notebook
 
 # 📂 How to Use?
 1️⃣ Navigate to each project folder.

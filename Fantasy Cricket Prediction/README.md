@@ -37,11 +37,11 @@ Fantasy cricket players rely on historical performance data to create their team
 # 📊 Model Evaluation Metrics
 * Confusion Matrix & Classification Report
 * Feature Importance Analysis (Random Forest & CatBoost)
-* * Cross-Validation Performance Check
+* Cross-Validation Performance Check
 
 # 🛠 Technologies Used
 🔹 Python
-🔹 Pandas, NumPy – Data preprocessing
+* 🔹 Pandas, NumPy – Data preprocessing
 🔹 Matplotlib, Seaborn – Data visualization
 🔹 Scikit-Learn, CatBoost, XGBoost – Machine Learning models
 🔹 Jupyter Notebook

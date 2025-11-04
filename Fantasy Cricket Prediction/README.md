@@ -58,6 +58,6 @@ Fantasy cricket players rely on historical performance data to create their team
 3️⃣ Run the notebook to train models and predict match winners.
 
 # 📌 Business & Sports Analytics Impact
-📈 This model helps #fantasy cricket players# make informed team selections based on historical IPL data.
+📈 This model helps #fantasy cricket players make informed team selections based on historical IPL data.
 
 📉 It also provides insights for sports analysts and betting platforms.
